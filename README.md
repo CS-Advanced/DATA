@@ -1,3 +1,31 @@
-# DATA
-Collection of Data  
-Data for the course of Applied Computational Science
+# 計算科学応用演習（Applied Computational Science)
+
+このリポジトリは、弘前大学理工学部数物科学科 「計算科学応用演習」に関連するコードおよびデータのアーカイブです。
+
+## 📚 授業概要
+
+- 科目名：計算科学応用演習（理工学部専門教育科目）
+- 対象：数物科学科数理科学・応用計算科学コースの3年生
+- 内容：Pythonによるデータ解析、可視化、機械学習の基礎と応用
+
+## 📂 含まれるもの
+
+- `notebooks/`：授業で使用したJupyterノートブック
+- `data/`：サンプルデータセット
+- `assignments/`：課題・演習問題
+
+## 💡 使用技術
+
+- Python 3
+- Jupyter Notebook
+- NumPy, pandas, matplotlib, scikit-learn など
+
+## 👤 担当教員
+
+守 真太郎（Shintaro Mori）  
+弘前大学 理工学部・数物科学科
+
+## 📜 ライセンス
+
+このリポジトリの内容は教育目的で使用されます。再配布や商用利用はご遠慮ください。必要に応じて適切なライセンス（例：CC BY-NC-SA）を追記してください。
+
